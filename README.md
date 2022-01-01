@@ -10,7 +10,7 @@ The data is completely synthetic. They have a pattern that needs to be determine
 
 ## Model evaluation
 
-I used a pipeline with a standard scaler, polynomial features and a linear regression without regularization. It showed an RMSE score of 48463.45 on the testing dataset, ranking 7th best out of 219 participants.
+I used a pipeline with a standard scaler, polynomial features and a linear regression without regularization. It showed an RMSE score of 50791.66 on the testing dataset, ranking 22th best out of 219 participants.
 
 ## Project structure
 
